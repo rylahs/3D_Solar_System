@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="3D Solar System">
+</Property><Property Name="솔루션 파일" Value="C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System.suo">
+</Property><Property Name="Date" Value="2013년 12월 4일 수요일">
+</Property><Property Name="Time" Value="오후 14:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="3D Solar System.sln" Description="파일을 C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="3D Solar System.suo" Description="파일을 C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="3D Solar System" Source="3D Solar System\3D Solar System.vcproj" Description="Converting project file 'C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System\3D Solar System.vcproj'.">
+</Event><Event ErrorLevel="1" Project="3D Solar System" Source="3D Solar System\3D Solar System.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="3D Solar System" Source="3D Solar System\3D Solar System.vcproj" Description="Done converting to new project file 'C:\Users\SJLAP\Desktop\3D Solar System\3D Solar System\3D Solar System.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="3D Solar System" Source="3D Solar System\3D Solar System.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="3D Solar System.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="3D Solar System.sln" Description="Converted">
+</Event></UpgradeLog>
