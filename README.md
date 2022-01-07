@@ -17,7 +17,7 @@
 - OS  : Windows 7
 
 # 상세 내용
-- 3D Solar System.pdf 참고
+- [3D Solar System.pdf](3D Soloar System.pdf) 참고
 
 # 기타 개인 의견
 - 당시에 Implementation을 깊게 참여하진 못했던 프로젝트.
